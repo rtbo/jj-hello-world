@@ -1,16 +1,13 @@
-/// A "Hello, world!" program.
-///
-/// I shit on tutos...
+//! A "Hello, world!" program.
+//!
+//! I shit on tutos...
 
 fn main() {
-    print_hello();
-    print_bye();
+    print("Hello, world!");
+    print("Bye, now...");
 }
 
-fn print_hello() {
-    println!("Hello, world!");
-}
-
-fn print_bye() {
-    println!("Bye, now...");
+/// A printing function
+fn print(msg: &str) {
+    println!("{msg}")
 }
