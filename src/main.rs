@@ -4,7 +4,6 @@
 
 fn main() {
     print("Hello, world!");
-    print("Bye, now...");
 }
 
 /// A printing function
