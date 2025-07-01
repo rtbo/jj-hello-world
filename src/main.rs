@@ -1,6 +1,6 @@
 //! A "Hello, world!" program.
 //!
-//! I shit on tutos...
+//! I like tutos...
 
 fn main() {
     print("Hello, world!");
