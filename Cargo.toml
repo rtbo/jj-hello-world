@@ -1,5 +1,6 @@
 [package]
-name = "hello-world"
+name = "jj-hello-world"
+description = "Jujutsu hello world tuto"
 version = "0.1.0"
 edition = "2021"
 
